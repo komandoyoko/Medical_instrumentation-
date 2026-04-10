@@ -1,7 +1,7 @@
 This repository contains:
 
-project in Medical instrumentation from my Bachelor
+- project in Medical instrumentation from my Bachelor
 
-Bachelor thesis 
+- Bachelor thesis 
 
-Master thesis (in progress)
+- Master thesis (in progress)
